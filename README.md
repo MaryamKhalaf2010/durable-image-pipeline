@@ -83,7 +83,7 @@ SELECT * FROM dbo.metadata;
 
 ##  Demo Video
 
-[![YouTube Demo](https://img.shields.io/badge/Watch-Demo%20Video-red?style=for-the-badge&logo=youtube)]([https://youtu.be/YOUR_VIDEO_LINK](https://youtu.be/pfL4eFElFsE))
+https://youtu.be/pfL4eFElFsE
 
 ---
 
