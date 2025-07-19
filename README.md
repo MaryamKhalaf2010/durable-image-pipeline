@@ -1,4 +1,4 @@
-# Durable Workflow for Image Metadata Processing 📸
+# Durable Workflow for Image Metadata Processing 
 
 **Course**: CST8917 – Serverless Cloud Apps  
 **Assignment**: A1 – Durable Workflow for Image Metadata Processing  
