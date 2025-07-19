@@ -1,0 +1,4 @@
+azure-functions
+azure-functions-durable
+Pillow  # if using for image metadata
+pyodbc
